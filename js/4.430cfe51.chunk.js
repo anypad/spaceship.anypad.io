@@ -1,0 +1,1 @@
+(this["webpackJsonpcra-web3-starter"]=this["webpackJsonpcra-web3-starter"]||[]).push([[4],{657:function(t,n){},697:function(t,n){},770:function(t,n){}}]);
